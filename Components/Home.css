@@ -1,0 +1,44 @@
+.c1
+{
+border:2px solid black;
+width:100%;
+height:520px;
+}
+.c2
+{
+border:0px solid black;
+color:black;
+width:100%;
+height:750px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-image:url('image1.jpg');
+background-position:fixed;
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
+.c3
+{
+    color: black;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    height:40px;
+    background-color:#4011a7;
+    width:100%;
+    font-size: 20px;
+}
+.c4
+{
+    text-decoration: none;
+}
+.foot
+{
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color:#660b0b;
+    height:60px;
+}
+.h1{
+text-align: center;
+}
